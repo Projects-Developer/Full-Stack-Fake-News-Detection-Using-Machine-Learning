@@ -1,4 +1,4 @@
-# Full-Stack-Fake-News-Detection-Using-Machine-Learning
+# Full Stack Fake News Detection Using Machine Learning
 The Full Stack Fake News Detection Using Machine Learning project With Code, Documents And Video Tutorial
 
 ![Fake News detection](https://github.com/user-attachments/assets/a8c62c32-9581-4ff4-aeb5-9c312c49575a)
